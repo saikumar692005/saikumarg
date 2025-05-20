@@ -22,3 +22,12 @@ path.append(robot_pos.copy())
 print("Robot path to target:")
 for step in path:
 print(step)
+
+output:
+Robot Path to target:
+      [0,0]
+      [1,1]
+      [2,2]
+      [3,3]<-abstcle detected,goes around
+      [3,4]
+      [4,5]
